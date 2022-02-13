@@ -10,7 +10,7 @@ ARG VCS-REF
 # Labels.
 LABEL maintainer="sksegha@gmail.com"
 LABEL build-date="$BUILD_DATE"
-LABEL vcs-url="https://github.com/GastroGee/jenkins-docker/"
+LABEL vcs-url="https://github.com/GastroGee/jenkins/"
 LABEL vcs-ref="$VERSION"
 LABEL dockerfile-location="Dockerfile"
 
