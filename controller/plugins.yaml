@@ -1,0 +1,85 @@
+plugins:
+  - artifactId: blueocean
+    source:
+      version: 1.25.2
+  - artifactId: ansicolor
+    source:
+      version: 1.0.0
+  - artifactId: atlassian-bitbucket-server-integration
+    source:
+      version: 3.1.0
+  - artifactId: build-timeout
+    source:
+      version: 1.20
+  - artifactId: nomad
+    source:
+      version: 0.8.0
+  - artifactId: pipeline-utility-steps
+    source:
+      version: 2.10.0
+  - artifactId: vsphere-cloud
+    source:
+      version: 2.26
+  - artifactId: ws-cleanup
+    source:
+      version: 0.39
+  - artifactId: hashicorp-vault-plugin
+    source:
+      version: 3.8.0
+  - artifactId: configuration-as-code
+    source:
+      version: 1.55.1
+  - artifactId: ldap
+    source:
+      version: 2.7
+  - artifactId: matrix-auth
+    source:
+      version: 2.6.8
+  - artifactId: timestamper
+    source:
+      version: 1.13
+  - artifactId: slack
+    source:
+      version: 2.48
+  - artifactId: cloudbees-folder
+    source:
+      version: 6.16
+  - artifactId: role-strategy
+    source:
+      version: 3.2.0
+  - artifactId: email-ext
+    source:
+      version: 2.84
+  - artifactId: prometheus
+    source:
+      version: 2.0.10
+  - artifactId: ssh-agent
+    source:
+      version: 1.23.2
+  - artifactId: docker-workflow
+    source:
+      version: 1.26
+  - artifactId: folder-properties
+    source:
+      version: 1.2.1
+  - artifactId: jira
+    source:
+      version: 3.6
+  - artifactId: monitoring
+    source:
+      version: 1.88.0
+  - artifactId: cloudbees-disk-usage-simple
+    source:
+      version: 0.10
+  - artifactId: rebuild
+    source:
+      version: 1.32
+  - artifactId: build-blocker-plugin
+    source:
+      version: 1.7.3
+  - artifactId: simple-theme-plugin
+    source:
+      version: 0.7
+  - artifactId: login-theme
+    source:
+      version: 1.1
